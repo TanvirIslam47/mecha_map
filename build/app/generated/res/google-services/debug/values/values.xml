@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">624222527041-id92f4m8r367l4qpcul0cuid7p1b6o6j.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">624222527041</string>
+    <string name="google_api_key" translatable="false">AIzaSyCelqtPU03DOv4m1Dch6HH1Rsqyx16WSzY</string>
+    <string name="google_app_id" translatable="false">1:624222527041:android:69879e07941aa58fa830c0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCelqtPU03DOv4m1Dch6HH1Rsqyx16WSzY</string>
+    <string name="google_storage_bucket" translatable="false">mechamap2.appspot.com</string>
+    <string name="project_id" translatable="false">mechamap2</string>
+</resources>

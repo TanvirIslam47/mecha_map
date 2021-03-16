@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "624222527041",
+    "project_id": "mechamap2",
+    "storage_bucket": "mechamap2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624222527041:android:69879e07941aa58fa830c0",
+        "android_client_info": {
+          "package_name": "com.mechanickoi.mechamap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624222527041-id92f4m8r367l4qpcul0cuid7p1b6o6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCelqtPU03DOv4m1Dch6HH1Rsqyx16WSzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624222527041-id92f4m8r367l4qpcul0cuid7p1b6o6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

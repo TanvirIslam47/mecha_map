@@ -1,0 +1,390 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:1:1-55:12
+INJECTED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:1:1-55:12
+INJECTED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:1:1-55:12
+INJECTED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:1:1-55:12
+MERGED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:1:1-55:12
+MERGED from [:cloud_firestore] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:cloud_firestore_web] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\cloud_firestore_web\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_core] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core_web] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\firebase_core_web\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:geolocator] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:google_api_availability] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\google_api_availability\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:google_maps_flutter] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\google_maps_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_plugin_android_lifecycle] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:location_permissions] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\location_permissions\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\2705d98974e9410ec5445373870d42d2\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\c07b8a8af3ff33775e85c820962d6eb7\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\04eb9aadc7018e1a51a1ded05126dd2d\jetified-play-services-location-16.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\5bf5c9bfbe5d2639c651d81e12f99724\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\77a2f97f4180acca865bcaa51f4b21c5\play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\489a283cae0544a4d7b8d521c8556e81\firebase-auth-interop-18.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.2.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\c7bf2bf666df0d106e3c35a59a3c937c\play-services-base-17.2.1\AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\f966f0b4a3a30bcab7af1233a8d2bce9\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\77669d5c1193663c26ef57d9aa52ca25\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\7fb5d0ba78cc0f7b1e2a5201e96ad0fb\jetified-firebase-common-19.3.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.2] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\de60623d808884d21ccb18ae7c42b611\play-services-tasks-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\e7c3e498c2555d43db3b28628ab86ef6\play-services-places-placereport-16.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.2.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\c729bef0ed8f0653f9c547e0b7f73aa0\jetified-play-services-basement-17.2.1\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\2a043d3f5fd22167e021cf30806b5be9\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\77b21b9d8f1dd2618c7e8ee5d418ed1b\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\3461326a4ac8c66a18ea6a904f02b6a4\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\0820b99d6a5d30955d93f7432a6b6606\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\b2284902d9b3683595170399057bc230\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\0adb00ec966dc1f1b41491edfd246e2e\appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\ef73027a590ba40c40628f81889bbfe1\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\961accf4f692e098bca192a2e46a1ed3\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\f333fff089a65883db4369ab04866b77\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\be0a3d96e69806a17dd3ec618a610bb9\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\f4b054b692c01d60cfa1b25a7210754e\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\688f3629642e7e1c25f39dc36dfb7f4b\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\2dcf679aa1864a5f60f2da220706b425\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\92d66a8a818f8339807e81b13dd23ea6\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\9d8d89607511d301a4ba7c9190a3d50d\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\51f161b525b4fd1920f8d7a53d6b6ea8\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\1db922c1d196d14487179d2aa1e2900e\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\abee5b37dba13f092deef02b35959943\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\7ec00a50b8c8eec8bc982dc94cdd72df\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\2821878dbda74575382c946a359cf337\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\15a45fc9279cd414e7bc73393fa60ccf\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\8b41debddbd50aa307dba0f241fef08b\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\fa3e28b8a7da8022cb3c6e2a2f647af4\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\3c4344c97194b317881817238bfc5913\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\6dadf666a149784310abb41a35b094dd\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\d3eb63bf853c789a48d650b747031fff\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\03e26697d0a6e1eb3912dab2156c8fb7\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\a44cec94aaed465518ad794d0c43f508\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\742ed95bf955082c4e04b9881ddf75f5\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\0cca3d6d2c6cfb76a6994a0135850fb2\annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\5e44f643e5d1e68aa83236c46ded5dc3\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\bec353f76dd15206568bfbdf68ea776d\firebase-database-collection-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\b97bb550625f4f7a017d7d0ff6a1bcd4\protolite-well-known-types-17.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\0730e72409bdfe8949477277f461c8f0\grpc-android-1.21.0\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:2:5-40
+		INJECTED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:1:1-55:12
+		INJECTED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:1:1-55:12
+		INJECTED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:8:5-67
+MERGED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:8:5-67
+MERGED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\5bf5c9bfbe5d2639c651d81e12f99724\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\5bf5c9bfbe5d2639c651d81e12f99724\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\77a2f97f4180acca865bcaa51f4b21c5\play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\77a2f97f4180acca865bcaa51f4b21c5\play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:9:5-79
+MERGED from [:geolocator] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
+MERGED from [:geolocator] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:10:22-78
+application
+ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:12:5-54:19
+MERGED from [:cloud_firestore] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\2705d98974e9410ec5445373870d42d2\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\2705d98974e9410ec5445373870d42d2\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\04eb9aadc7018e1a51a1ded05126dd2d\jetified-play-services-location-16.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\04eb9aadc7018e1a51a1ded05126dd2d\jetified-play-services-location-16.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\5bf5c9bfbe5d2639c651d81e12f99724\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\5bf5c9bfbe5d2639c651d81e12f99724\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\77a2f97f4180acca865bcaa51f4b21c5\play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\77a2f97f4180acca865bcaa51f4b21c5\play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\489a283cae0544a4d7b8d521c8556e81\firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\489a283cae0544a4d7b8d521c8556e81\firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.2.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\c7bf2bf666df0d106e3c35a59a3c937c\play-services-base-17.2.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.2.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\c7bf2bf666df0d106e3c35a59a3c937c\play-services-base-17.2.1\AndroidManifest.xml:22:5-27:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\f966f0b4a3a30bcab7af1233a8d2bce9\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\f966f0b4a3a30bcab7af1233a8d2bce9\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\7fb5d0ba78cc0f7b1e2a5201e96ad0fb\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\7fb5d0ba78cc0f7b1e2a5201e96ad0fb\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.2] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\de60623d808884d21ccb18ae7c42b611\play-services-tasks-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.2] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\de60623d808884d21ccb18ae7c42b611\play-services-tasks-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\e7c3e498c2555d43db3b28628ab86ef6\play-services-places-placereport-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\e7c3e498c2555d43db3b28628ab86ef6\play-services-places-placereport-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.2.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\c729bef0ed8f0653f9c547e0b7f73aa0\jetified-play-services-basement-17.2.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.2.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\c729bef0ed8f0653f9c547e0b7f73aa0\jetified-play-services-basement-17.2.1\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\9d8d89607511d301a4ba7c9190a3d50d\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\9d8d89607511d301a4ba7c9190a3d50d\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\8b41debddbd50aa307dba0f241fef08b\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\8b41debddbd50aa307dba0f241fef08b\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\9d8d89607511d301a4ba7c9190a3d50d\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:14:9-34
+	android:icon
+		ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:15:9-45
+	android:name
+		ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:13:9-57
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:17:9-18:73
+	android:value
+		ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:18:16-71
+	android:name
+		ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:17:20-65
+activity#com.mechanickoi.mecha_map.MainActivity
+ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:20:9-48:20
+	android:launchMode
+		ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:22:13-43
+	android:hardwareAccelerated
+		ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:25:13-47
+	android:windowSoftInputMode
+		ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:26:13-55
+	android:configChanges
+		ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:24:13-163
+	android:theme
+		ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:23:13-47
+	android:name
+		ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:21:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:31:13-34:17
+	android:resource
+		ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:33:15-52
+	android:name
+		ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:32:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:40:13-43:17
+	android:resource
+		ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:42:15-61
+	android:name
+		ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:41:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:44:13-47:29
+action#android.intent.action.MAIN
+ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:45:17-68
+	android:name
+		ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:46:17-76
+	android:name
+		ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:46:27-74
+meta-data#flutterEmbedding
+ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:51:9-53:33
+	android:value
+		ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:53:13-30
+	android:name
+		ADDED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:52:13-44
+uses-sdk
+INJECTED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml
+MERGED from [:cloud_firestore] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore_web] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\cloud_firestore_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore_web] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\cloud_firestore_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core_web] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\firebase_core_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core_web] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\firebase_core_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_api_availability] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\google_api_availability\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_api_availability] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\google_api_availability\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\google_maps_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\google_maps_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:location_permissions] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\location_permissions\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:location_permissions] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\location_permissions\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\2705d98974e9410ec5445373870d42d2\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\2705d98974e9410ec5445373870d42d2\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\c07b8a8af3ff33775e85c820962d6eb7\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\c07b8a8af3ff33775e85c820962d6eb7\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\04eb9aadc7018e1a51a1ded05126dd2d\jetified-play-services-location-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\04eb9aadc7018e1a51a1ded05126dd2d\jetified-play-services-location-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\5bf5c9bfbe5d2639c651d81e12f99724\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\5bf5c9bfbe5d2639c651d81e12f99724\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\77a2f97f4180acca865bcaa51f4b21c5\play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\77a2f97f4180acca865bcaa51f4b21c5\play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\489a283cae0544a4d7b8d521c8556e81\firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\489a283cae0544a4d7b8d521c8556e81\firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.2.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\c7bf2bf666df0d106e3c35a59a3c937c\play-services-base-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.2.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\c7bf2bf666df0d106e3c35a59a3c937c\play-services-base-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\f966f0b4a3a30bcab7af1233a8d2bce9\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\f966f0b4a3a30bcab7af1233a8d2bce9\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\77669d5c1193663c26ef57d9aa52ca25\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\77669d5c1193663c26ef57d9aa52ca25\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\7fb5d0ba78cc0f7b1e2a5201e96ad0fb\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\7fb5d0ba78cc0f7b1e2a5201e96ad0fb\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.2] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\de60623d808884d21ccb18ae7c42b611\play-services-tasks-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.2] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\de60623d808884d21ccb18ae7c42b611\play-services-tasks-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\e7c3e498c2555d43db3b28628ab86ef6\play-services-places-placereport-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\e7c3e498c2555d43db3b28628ab86ef6\play-services-places-placereport-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.2.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\c729bef0ed8f0653f9c547e0b7f73aa0\jetified-play-services-basement-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.2.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\c729bef0ed8f0653f9c547e0b7f73aa0\jetified-play-services-basement-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\2a043d3f5fd22167e021cf30806b5be9\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\2a043d3f5fd22167e021cf30806b5be9\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\77b21b9d8f1dd2618c7e8ee5d418ed1b\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\77b21b9d8f1dd2618c7e8ee5d418ed1b\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\3461326a4ac8c66a18ea6a904f02b6a4\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\3461326a4ac8c66a18ea6a904f02b6a4\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\0820b99d6a5d30955d93f7432a6b6606\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\0820b99d6a5d30955d93f7432a6b6606\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\b2284902d9b3683595170399057bc230\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\b2284902d9b3683595170399057bc230\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\0adb00ec966dc1f1b41491edfd246e2e\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\0adb00ec966dc1f1b41491edfd246e2e\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\ef73027a590ba40c40628f81889bbfe1\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\ef73027a590ba40c40628f81889bbfe1\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\961accf4f692e098bca192a2e46a1ed3\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\961accf4f692e098bca192a2e46a1ed3\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\f333fff089a65883db4369ab04866b77\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\f333fff089a65883db4369ab04866b77\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\be0a3d96e69806a17dd3ec618a610bb9\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\be0a3d96e69806a17dd3ec618a610bb9\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\f4b054b692c01d60cfa1b25a7210754e\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\f4b054b692c01d60cfa1b25a7210754e\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\688f3629642e7e1c25f39dc36dfb7f4b\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\688f3629642e7e1c25f39dc36dfb7f4b\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\2dcf679aa1864a5f60f2da220706b425\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\2dcf679aa1864a5f60f2da220706b425\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\92d66a8a818f8339807e81b13dd23ea6\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\92d66a8a818f8339807e81b13dd23ea6\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\9d8d89607511d301a4ba7c9190a3d50d\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\9d8d89607511d301a4ba7c9190a3d50d\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\51f161b525b4fd1920f8d7a53d6b6ea8\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\51f161b525b4fd1920f8d7a53d6b6ea8\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\1db922c1d196d14487179d2aa1e2900e\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\1db922c1d196d14487179d2aa1e2900e\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\abee5b37dba13f092deef02b35959943\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\abee5b37dba13f092deef02b35959943\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\7ec00a50b8c8eec8bc982dc94cdd72df\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\7ec00a50b8c8eec8bc982dc94cdd72df\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\2821878dbda74575382c946a359cf337\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\2821878dbda74575382c946a359cf337\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\15a45fc9279cd414e7bc73393fa60ccf\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\15a45fc9279cd414e7bc73393fa60ccf\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\8b41debddbd50aa307dba0f241fef08b\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\8b41debddbd50aa307dba0f241fef08b\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\fa3e28b8a7da8022cb3c6e2a2f647af4\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\fa3e28b8a7da8022cb3c6e2a2f647af4\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\3c4344c97194b317881817238bfc5913\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\3c4344c97194b317881817238bfc5913\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\6dadf666a149784310abb41a35b094dd\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\6dadf666a149784310abb41a35b094dd\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\d3eb63bf853c789a48d650b747031fff\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\d3eb63bf853c789a48d650b747031fff\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\03e26697d0a6e1eb3912dab2156c8fb7\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\03e26697d0a6e1eb3912dab2156c8fb7\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\a44cec94aaed465518ad794d0c43f508\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\a44cec94aaed465518ad794d0c43f508\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\742ed95bf955082c4e04b9881ddf75f5\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\742ed95bf955082c4e04b9881ddf75f5\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\0cca3d6d2c6cfb76a6994a0135850fb2\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\0cca3d6d2c6cfb76a6994a0135850fb2\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\5e44f643e5d1e68aa83236c46ded5dc3\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\5e44f643e5d1e68aa83236c46ded5dc3\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\bec353f76dd15206568bfbdf68ea776d\firebase-database-collection-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\bec353f76dd15206568bfbdf68ea776d\firebase-database-collection-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\b97bb550625f4f7a017d7d0ff6a1bcd4\protolite-well-known-types-17.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\b97bb550625f4f7a017d7d0ff6a1bcd4\protolite-well-known-types-17.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\0730e72409bdfe8949477277f461c8f0\grpc-android-1.21.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\0730e72409bdfe8949477277f461c8f0\grpc-android-1.21.0\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\debug\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:cloud_firestore] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\5bf5c9bfbe5d2639c651d81e12f99724\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\5bf5c9bfbe5d2639c651d81e12f99724\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\7fb5d0ba78cc0f7b1e2a5201e96ad0fb\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\7fb5d0ba78cc0f7b1e2a5201e96ad0fb\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\5bf5c9bfbe5d2639c651d81e12f99724\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:19:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\7fb5d0ba78cc0f7b1e2a5201e96ad0fb\jetified-firebase-common-19.3.0\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\7fb5d0ba78cc0f7b1e2a5201e96ad0fb\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [:cloud_firestore] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar
+ADDED from [:cloud_firestore] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:cloud_firestore] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:cloud_firestore] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-133
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_core] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-123
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\5bf5c9bfbe5d2639c651d81e12f99724\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\77a2f97f4180acca865bcaa51f4b21c5\play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\77a2f97f4180acca865bcaa51f4b21c5\play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\0730e72409bdfe8949477277f461c8f0\grpc-android-1.21.0\AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\0730e72409bdfe8949477277f461c8f0\grpc-android-1.21.0\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\5bf5c9bfbe5d2639c651d81e12f99724\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:13:22-76
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\5bf5c9bfbe5d2639c651d81e12f99724\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\5bf5c9bfbe5d2639c651d81e12f99724\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\5bf5c9bfbe5d2639c651d81e12f99724\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:21:17-111
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\77a2f97f4180acca865bcaa51f4b21c5\play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\77a2f97f4180acca865bcaa51f4b21c5\play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\77a2f97f4180acca865bcaa51f4b21c5\play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\77a2f97f4180acca865bcaa51f4b21c5\play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\77a2f97f4180acca865bcaa51f4b21c5\play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\77a2f97f4180acca865bcaa51f4b21c5\play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.2.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\c7bf2bf666df0d106e3c35a59a3c937c\play-services-base-17.2.1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.2.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\c7bf2bf666df0d106e3c35a59a3c937c\play-services-base-17.2.1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.2.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\c7bf2bf666df0d106e3c35a59a3c937c\play-services-base-17.2.1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.2.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\c7bf2bf666df0d106e3c35a59a3c937c\play-services-base-17.2.1\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\7fb5d0ba78cc0f7b1e2a5201e96ad0fb\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\7fb5d0ba78cc0f7b1e2a5201e96ad0fb\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\7fb5d0ba78cc0f7b1e2a5201e96ad0fb\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\7fb5d0ba78cc0f7b1e2a5201e96ad0fb\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\7fb5d0ba78cc0f7b1e2a5201e96ad0fb\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.2.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\c729bef0ed8f0653f9c547e0b7f73aa0\jetified-play-services-basement-17.2.1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.2.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\c729bef0ed8f0653f9c547e0b7f73aa0\jetified-play-services-basement-17.2.1\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.2.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\c729bef0ed8f0653f9c547e0b7f73aa0\jetified-play-services-basement-17.2.1\AndroidManifest.xml:24:13-58

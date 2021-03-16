@@ -1,0 +1,178 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mechanickoi.mechamap"
+4    android:versionCode="1"
+5    android:versionName="1.0.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="29" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:8:5-67
+14-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:8:22-64
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:9:5-79
+15-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:9:22-76
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+16-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:10:5-81
+16-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:10:22-78
+17    <!-- <uses-sdk android:minSdkVersion="14" /> -->
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->[com.google.firebase:firebase-firestore:21.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\5bf5c9bfbe5d2639c651d81e12f99724\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:13:5-79
+18-->[com.google.firebase:firebase-firestore:21.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\5bf5c9bfbe5d2639c651d81e12f99724\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:13:22-76
+19
+20    <uses-feature
+20-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\77a2f97f4180acca865bcaa51f4b21c5\play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+21        android:glEsVersion="0x00020000"
+21-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\77a2f97f4180acca865bcaa51f4b21c5\play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+22        android:required="true" />
+22-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\77a2f97f4180acca865bcaa51f4b21c5\play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+23
+24    <application
+24-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:12:5-54:19
+25        android:name="io.flutter.app.FlutterApplication"
+25-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:13:9-57
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.3.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\9d8d89607511d301a4ba7c9190a3d50d\core-1.3.1\AndroidManifest.xml:24:18-86
+27        android:debuggable="true"
+28        android:icon="@mipmap/launcher_icon"
+28-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:15:9-45
+29        android:label="Mecha Map" >
+29-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:14:9-34
+30        <meta-data
+30-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:17:9-18:73
+31            android:name="com.google.android.geo.API_KEY"
+31-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:17:20-65
+32            android:value="AIzaSyBrLjIzqXkc1irqM6FvXLFQOMoCQJGTPpc" />
+32-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:18:16-71
+33
+34        <activity
+34-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:20:9-48:20
+35            android:name="com.mechanickoi.mecha_map.MainActivity"
+35-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:21:13-41
+36            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+36-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:24:13-163
+37            android:hardwareAccelerated="true"
+37-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:25:13-47
+38            android:launchMode="singleTop"
+38-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:22:13-43
+39            android:theme="@style/LaunchTheme"
+39-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:23:13-47
+40            android:windowSoftInputMode="adjustResize" >
+40-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:26:13-55
+41
+42            <!--
+43                 Specifies an Android theme to apply to this Activity as soon as
+44                 the Android process has started. This theme is visible to the user
+45                 while the Flutter UI initializes. After that, this theme continues
+46                 to determine the Window background behind the Flutter UI.
+47            -->
+48            <meta-data
+48-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:31:13-34:17
+49                android:name="io.flutter.embedding.android.NormalTheme"
+49-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:32:15-70
+50                android:resource="@style/NormalTheme" />
+50-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:33:15-52
+51            <!--
+52                 Displays an Android View that continues showing the launch screen
+53                 Drawable until Flutter paints its first frame, then this splash
+54                 screen fades out. A splash screen is useful to avoid any visual
+55                 gap between the end of Android's launch screen and the painting of
+56                 Flutter's first frame.
+57            -->
+58            <meta-data
+58-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:40:13-43:17
+59                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+59-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:41:15-79
+60                android:resource="@drawable/launch_background" />
+60-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:42:15-61
+61
+62            <intent-filter>
+62-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:44:13-47:29
+63                <action android:name="android.intent.action.MAIN" />
+63-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:45:17-68
+63-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:45:25-66
+64
+65                <category android:name="android.intent.category.LAUNCHER" />
+65-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:46:17-76
+65-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:46:27-74
+66            </intent-filter>
+67        </activity>
+68        <!--
+69             Don't delete the meta-data below.
+70             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+71        -->
+72        <meta-data
+72-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:51:9-53:33
+73            android:name="flutterEmbedding"
+73-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:52:13-44
+74            android:value="2" />
+74-->D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\android\app\src\main\AndroidManifest.xml:53:13-30
+75
+76        <service
+76-->[:cloud_firestore] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+77            android:name="com.google.firebase.components.ComponentDiscoveryService"
+77-->[:cloud_firestore] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+78            android:directBootAware="true"
+78-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\7fb5d0ba78cc0f7b1e2a5201e96ad0fb\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+79            android:exported="false" >
+79-->[com.google.firebase:firebase-firestore:21.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\5bf5c9bfbe5d2639c651d81e12f99724\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:19:13-37
+80            <meta-data
+80-->[:cloud_firestore] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+81                android:name="com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar"
+81-->[:cloud_firestore] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-133
+82                android:value="com.google.firebase.components.ComponentRegistrar" />
+82-->[:cloud_firestore] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+83            <meta-data
+83-->[:firebase_core] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+84                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar"
+84-->[:firebase_core] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-123
+85                android:value="com.google.firebase.components.ComponentRegistrar" />
+85-->[:firebase_core] D:\cse\Flutter Code\mechanic_koi_development_grp\mecha_map\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+86            <meta-data
+86-->[com.google.firebase:firebase-firestore:21.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\5bf5c9bfbe5d2639c651d81e12f99724\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:20:13-22:85
+87                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+87-->[com.google.firebase:firebase-firestore:21.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\5bf5c9bfbe5d2639c651d81e12f99724\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:21:17-111
+88                android:value="com.google.firebase.components.ComponentRegistrar" />
+88-->[com.google.firebase:firebase-firestore:21.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\5bf5c9bfbe5d2639c651d81e12f99724\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:22:17-82
+89        </service> <!-- Needs to be explicitly declared on P+ -->
+90        <uses-library
+90-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\77a2f97f4180acca865bcaa51f4b21c5\play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+91            android:name="org.apache.http.legacy"
+91-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\77a2f97f4180acca865bcaa51f4b21c5\play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+92            android:required="false" />
+92-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\77a2f97f4180acca865bcaa51f4b21c5\play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+93
+94        <activity
+94-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\c7bf2bf666df0d106e3c35a59a3c937c\play-services-base-17.2.1\AndroidManifest.xml:23:9-26:75
+95            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+95-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\c7bf2bf666df0d106e3c35a59a3c937c\play-services-base-17.2.1\AndroidManifest.xml:24:13-79
+96            android:exported="false"
+96-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\c7bf2bf666df0d106e3c35a59a3c937c\play-services-base-17.2.1\AndroidManifest.xml:25:13-37
+97            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+97-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\c7bf2bf666df0d106e3c35a59a3c937c\play-services-base-17.2.1\AndroidManifest.xml:26:13-72
+98
+99        <provider
+99-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\7fb5d0ba78cc0f7b1e2a5201e96ad0fb\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+100            android:name="com.google.firebase.provider.FirebaseInitProvider"
+100-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\7fb5d0ba78cc0f7b1e2a5201e96ad0fb\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+101            android:authorities="com.mechanickoi.mechamap.firebaseinitprovider"
+101-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\7fb5d0ba78cc0f7b1e2a5201e96ad0fb\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+102            android:exported="false"
+102-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\7fb5d0ba78cc0f7b1e2a5201e96ad0fb\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+103            android:initOrder="100" />
+103-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\7fb5d0ba78cc0f7b1e2a5201e96ad0fb\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+104
+105        <meta-data
+105-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\c729bef0ed8f0653f9c547e0b7f73aa0\jetified-play-services-basement-17.2.1\AndroidManifest.xml:23:9-25:69
+106            android:name="com.google.android.gms.version"
+106-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\c729bef0ed8f0653f9c547e0b7f73aa0\jetified-play-services-basement-17.2.1\AndroidManifest.xml:24:13-58
+107            android:value="@integer/google_play_services_version" />
+107-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\Tanvir\.gradle\caches\transforms-2\files-2.1\c729bef0ed8f0653f9c547e0b7f73aa0\jetified-play-services-basement-17.2.1\AndroidManifest.xml:25:13-66
+108    </application>
+109
+110</manifest>
